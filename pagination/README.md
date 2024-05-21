@@ -1,4 +1,7 @@
-# Complete Day Today Reactjs Mini Logic Project
-# please See Branches for more logical video code
-# thanks for watching TECHINFOYT Youtube Channel
-# PLease Like And Follow
+Steps to run the project
+
+1) Download source code
+
+2) npm i
+
+3) npm start
